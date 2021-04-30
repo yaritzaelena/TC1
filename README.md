@@ -1,1 +1,1 @@
-* [Diagrama] (https://www.youtube.com/watch?v=C6KB9kerKw0)
+* [Diagrama](https://www.youtube.com/watch?v=C6KB9kerKw0)
