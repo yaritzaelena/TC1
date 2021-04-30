@@ -8,4 +8,3 @@ falla, perderá el juego y deberá empezar de nuevo.
 * [User Stories](https://github.com/yaritzaelena/TC1/projects/1)
 * [Diagrama Conceptual](https://user-images.githubusercontent.com/48070919/116750917-706def80-a9c0-11eb-8435-7309db176680.png)
 * [Diagrama de Clases](https://user-images.githubusercontent.com/48070919/116750651-035a5a00-a9c0-11eb-940d-f7283feec79e.png)
-* [p](https://user-images.githubusercontent.com/48070919/116763877-4de9cf80-a9dc-11eb-80e3-5f43496e2a84.png)
